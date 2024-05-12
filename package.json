@@ -1,0 +1,14 @@
+{
+  "name": "fourier-drawer",
+  "version": "1.0.0",
+  "description": "program to draw a given svg with fouruer transform ",
+  "main": "draw.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "sukinesh",
+  "license": "ISC",
+  "dependencies": {
+    "svg-path-interpolator": "^0.3.0"
+  }
+}
